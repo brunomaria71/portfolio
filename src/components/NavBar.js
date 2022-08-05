@@ -36,7 +36,7 @@ export default function MenuBar() {
                 Medium
               </NavDropdown.Item>
               <NavDropdown.Divider />
-              <NavDropdown.Item href="#action/3.4">Code:Pink</NavDropdown.Item>
+              <NavDropdown.Item href="/codepink">Code:Pink</NavDropdown.Item>
             </NavDropdown>
           </Nav>
         </Navbar.Collapse>
